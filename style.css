@@ -1,0 +1,35 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Schoolbell&display=swap');
+
+@font-face {
+    font-family: 'DancingScript-Bold';
+    src: url('/Dancing_Script/static/DancingScript-Bold.ttf');
+} */
+
+#box {
+    background-color: rgb(145, 145, 242);
+    text-align: justify;
+    font-weight: normal;
+    font-family: Arial;
+    font-size: 30px;
+    line-height: 2;
+    text-transform: none;
+    /* font-family: 'DancingScript-Bold'; */
+}
+
+.heading {
+    color: red;
+    text-decoration: line-through;
+}
+
+button {
+    background-color: green;
+}
+
+span.inner {
+    color: green;
+}
+
+span.outer {
+    color: red;
+    text-decoration: line-through;
+}
